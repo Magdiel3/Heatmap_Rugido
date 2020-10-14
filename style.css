@@ -1,0 +1,9 @@
+p {
+    display: block;
+    text-align: justify;
+}
+a:link {
+    color: black;
+    text-decoration-line: none;
+    font-weight: bold;
+}
