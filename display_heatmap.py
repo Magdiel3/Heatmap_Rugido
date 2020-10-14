@@ -22,7 +22,7 @@ local_css("style.css")
 
 st.title("¿Dónde rugen los Tigres (6652)")
 
-
+# Some basic description of the project
 st.header("¿Cómo funciona?")
 st.markdown("""
         Los miembros de **Tigres 6652** han llenado un [formulario](https://forms.gle/ozU7gcf7KhAXt8mA6),
@@ -33,6 +33,7 @@ st.markdown("""
         API que manejan que, de momento, es gratis.
     """)
 
+# Plotting of the first map
 st.header("Lo que queremos ver")
 st.write("")
 
@@ -71,8 +72,21 @@ location_data = tigres_df[['lat', 'lng']].values
 # plot heatmap
 m.add_child(plugins.HeatMap(location_data, radius=15))
 
+print(os.getenv("DISPLAY_NAMES"))
+# Add markers to every Tiger
+if os.getenv("DISPLAY_NAMES"):
+    tooltip = 'Click me!'
+    for tigre in tigres.values():
+        apodo = tigre.get('Apodo (nombre corto)',"Un Tigre")
+        tigre_gps = [
+            tigre.get("GPS",{}).get("lat",midpoint[0]),
+            tigre.get("GPS",{}).get("lng",midpoint[1])
+        ]
+        folium.Marker(tigre_gps, popup=apodo, tooltip=tooltip).add_to(m)
+    st.markdown(f"**Respuestas:** {len(list(tigres.keys()))}")
 folium_static(m)
 
+# Some useful docs for the user
 st.header("Un poco más de explicación")
 st.write("El mapa no tiene tanta complejidad, realmente son solo 4 líneas de código")
 st.code("""
