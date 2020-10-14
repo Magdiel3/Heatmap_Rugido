@@ -47,7 +47,7 @@ data = pd.DataFrame(rows)
 with io.open(saved_responses_path,"w") as json_output:
     
     # Format responses into a dict
-    for tigre in rows:
+    for tigre in tqdm(rows,"Reading..."):
 
         # Remove the full name to use as key
         nombre = tigre.pop("Nombre (Completo)")
