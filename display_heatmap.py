@@ -72,9 +72,10 @@ location_data = tigres_df[['lat', 'lng']].values
 # plot heatmap
 m.add_child(plugins.HeatMap(location_data, radius=15))
 
-print(os.getenv("DISPLAY_NAMES"))
+persmission = int(os.getenv("DISPLAY_NAMES"))
+print(persmission)
 # Add markers to every Tiger
-if os.getenv("DISPLAY_NAMES"):
+if persmission:
     tooltip = 'Click me!'
     for tigre in tigres.values():
         apodo = tigre.get('Apodo (nombre corto)',"Un Tigre")
