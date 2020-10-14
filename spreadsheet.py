@@ -6,7 +6,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 
-# COnfidential info filepath
+# Confidential info filepath
 saved_responses_path = "data_store/form_responses.json"
 
 # Will store the data
