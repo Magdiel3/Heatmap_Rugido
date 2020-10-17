@@ -1,0 +1,498 @@
+{
+    "Alan Mata Lucio": {
+        "Apodo (nombre corto)": "Alan",
+        "Código Postal": "66603",
+        "Dirección": "Corteza 111, Radica Residencial, Apodaca, N.L.",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7745436,
+            "lng": -100.1689251
+        },
+        "Marca temporal": "12/10/2020 16:30:43",
+        "Temporada en la que ingresaste a Tigres": "Steamworks",
+        "Updated GPS": true
+    },
+    "Ana Cecilia Murrieta Muñoz": {
+        "Apodo (nombre corto)": "Ana",
+        "Código Postal": "37296",
+        "Dirección": "Punta del Risco 117 Lomas Punta del Este, León, Gto",
+        "GPS": {
+            "City": [
+                "León",
+                "León"
+            ],
+            "State": [
+                "Guanajuato",
+                "Gto."
+            ],
+            "lat": 21.1210117,
+            "lng": -101.6001358
+        },
+        "Marca temporal": "12/10/2020 16:46:27",
+        "Temporada en la que ingresaste a Tigres": "PowerUp",
+        "Updated GPS": true
+    },
+    "Ashley Sierra": {
+        "Apodo (nombre corto)": "Ashley ",
+        "Código Postal": "66600",
+        "Dirección": "Rio Balsas 156",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7733447,
+            "lng": -100.2067501
+        },
+        "Marca temporal": "12/10/2020 22:01:29",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Brenda Abigail Espino Villela": {
+        "Apodo (nombre corto)": "Aby la más bonita",
+        "Código Postal": "64209",
+        "Dirección": "5ta de los ruteros 5301, Fomerrey 35",
+        "GPS": {
+            "City": [
+                "Monterrey",
+                "Monterrey"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7939262,
+            "lng": -100.3799691
+        },
+        "Marca temporal": "12/10/2020 22:31:30",
+        "Temporada en la que ingresaste a Tigres": "Steamworks",
+        "Updated GPS": true
+    },
+    "Carlos Saucedo": {
+        "Apodo (nombre corto)": "Sauce",
+        "Código Postal": "67140",
+        "Dirección": "Gabriel García Márquez, 113 Rincón del Contry, Guadalupe",
+        "GPS": {
+            "City": [
+                "Monterrey",
+                "Monterrey"
+            ],
+            "State": [
+                "Nuevo Leon",
+                "N.L."
+            ],
+            "lat": 25.6738052,
+            "lng": -100.2698275
+        },
+        "Marca temporal": "12/10/2020 18:05:12",
+        "Temporada en la que ingresaste a Tigres": "PowerUp",
+        "Updated GPS": true
+    },
+    "Christian Jaime Hernandez Perales": {
+        "Apodo (nombre corto)": "Christian",
+        "Código Postal": "66612",
+        "Dirección": "Jazmin 312",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7935757,
+            "lng": -100.2516005
+        },
+        "Marca temporal": "12/10/2020 16:38:59",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Daniel Alberto de Luna Magallanes": {
+        "Apodo (nombre corto)": "Dani",
+        "Código Postal": "66635",
+        "Dirección": "Josefa Madrigal 419 Col VillaLuz",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7648941,
+            "lng": -100.2642188
+        },
+        "Marca temporal": "12/10/2020 16:36:40",
+        "Temporada en la que ingresaste a Tigres": "Infinite Recharge",
+        "Updated GPS": true
+    },
+    "Emiliano Briones Puente": {
+        "Apodo (nombre corto)": "Emi",
+        "Código Postal": "66365",
+        "Dirección": "Villa Latina #256",
+        "GPS": {
+            "City": [
+                "Santa Catarina",
+                "Santa Catarina"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.6910401,
+            "lng": -100.4382512
+        },
+        "Marca temporal": "12/10/2020 17:22:19",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Fátima Flores Ramírez": {
+        "Apodo (nombre corto)": "Faty",
+        "Código Postal": "51160",
+        "Dirección": "Col. Juan Villafaña, Calle s/n. S/N. Zacazonapan, Estado de México.",
+        "GPS": {
+            "City": [
+                "México",
+                "México"
+            ],
+            "State": [
+                "Estado de México",
+                "Méx."
+            ],
+            "lat": 19.0699626,
+            "lng": -100.2587599
+        },
+        "Marca temporal": "12/10/2020 17:30:59",
+        "Temporada en la que ingresaste a Tigres": "Infinite Recharge",
+        "Updated GPS": true
+    },
+    "Gabriela Guadalupe Martínez Orozco": {
+        "Apodo (nombre corto)": "Gaby",
+        "Código Postal": "27265",
+        "Dirección": "Cerrada centenario #4, Colonia ex hacienda los ángeles ",
+        "GPS": {
+            "City": [
+                "Torreón",
+                "Torreón"
+            ],
+            "State": [
+                "Coahuila de Zaragoza",
+                "Coah."
+            ],
+            "lat": 25.5320226,
+            "lng": -103.3977222
+        },
+        "Marca temporal": "12/10/2020 17:04:02",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Héctor Alan Pedraza Rios": {
+        "Apodo (nombre corto)": "Héctor",
+        "Código Postal": "67193",
+        "Dirección": "Misión San Marcos 7927, Misión Santa Fe, Guadalupe Nuevo León",
+        "GPS": {
+            "City": [
+                "Guadalupe",
+                "Guadalupe"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.654368,
+            "lng": -100.182232
+        },
+        "Marca temporal": "12/10/2020 16:42:28",
+        "Temporada en la que ingresaste a Tigres": "Steamworks",
+        "Updated GPS": true
+    },
+    "José Eduardo Hernández Rodríguez": {
+        "Apodo (nombre corto)": "Lala",
+        "Código Postal": "66700",
+        "Dirección": "Emiliano Zapata #304 Ejido Marín, Marín Nuevo León",
+        "GPS": {
+            "City": [
+                "Ciudad de México",
+                "México D.F."
+            ],
+            "State": [
+                "Ciudad de México",
+                "CDMX"
+            ],
+            "lat": 25.9153885,
+            "lng": -99.9791489
+        },
+        "Marca temporal": "12/10/2020 17:31:38",
+        "Temporada en la que ingresaste a Tigres": "PowerUp",
+        "Updated GPS": true
+    },
+    "José Juan Guajardo García": {
+        "Apodo (nombre corto)": "JJ",
+        "Código Postal": "66050",
+        "Dirección": "Miravista 267, Col. Miravista Escobedo, Nuevo León",
+        "GPS": {
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.8041731,
+            "lng": -100.3287399
+        },
+        "Marca temporal": "12/10/2020 16:33:40",
+        "Temporada en la que ingresaste a Tigres": "PowerUp",
+        "Updated GPS": true
+    },
+    "José Magdiel Martínez Ulloa": {
+        "Apodo (nombre corto)": "Magdiel",
+        "Código Postal": "65750",
+        "Dirección": "Pino 206, Portal del Norte, General Zuazua, Nuevo León, México",
+        "GPS": {
+            "City": [
+                "General Zuazua",
+                "Gral Zuazua"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.8911893,
+            "lng": -100.1115181
+        },
+        "Marca temporal": "12/10/2020 20:59:11",
+        "Temporada en la que ingresaste a Tigres": "Steamworks",
+        "Updated GPS": true
+    },
+    "Juan Carlos Valdez Flores": {
+        "Apodo (nombre corto)": "JuanCa",
+        "Código Postal": "27015",
+        "Dirección": "Puerta Real Paseo Windsord",
+        "GPS": {
+            "City": [
+                "Torreón",
+                "Torreón"
+            ],
+            "State": [
+                "Coahuila de Zaragoza",
+                "Coah."
+            ],
+            "lat": 25.5622554,
+            "lng": -103.3926668
+        },
+        "Marca temporal": "12/10/2020 16:34:31",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Juan Luis García Gaspar": {
+        "Apodo (nombre corto)": "Juan",
+        "Código Postal": "66358",
+        "Dirección": "Priv Sierra Real 2727, Residencial de la Sierra, Sta Catarina, N.L.",
+        "GPS": {
+            "City": [
+                "Santa Catarina",
+                "Santa Catarina"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.6788203,
+            "lng": -100.4860282
+        },
+        "Marca temporal": "12/10/2020 17:09:12",
+        "Temporada en la que ingresaste a Tigres": "Infinite Recharge",
+        "Updated GPS": true
+    },
+    "Karen Eugenia Villalobos Castillo": {
+        "Apodo (nombre corto)": "Karen",
+        "Código Postal": "64800",
+        "Dirección": "Gustavo M. García #254 Col. Buenos Aires",
+        "GPS": {
+            "City": [
+                "Monterrey",
+                "Monterrey"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.6667618,
+            "lng": -100.2866556
+        },
+        "Marca temporal": "12/10/2020 16:51:48",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Leonardo Simón Garza Zapata": {
+        "Apodo (nombre corto)": "Leo",
+        "Código Postal": "66633",
+        "Dirección": "Calle Guadalajara #215, Col. Noria Sur, Apodaca, N.L.",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7557919,
+            "lng": -100.2067501
+        },
+        "Marca temporal": "12/10/2020 17:41:11",
+        "Temporada en la que ingresaste a Tigres": "PowerUp",
+        "Updated GPS": true
+    },
+    "Liz Adriana Chena Zamora": {
+        "Apodo (nombre corto)": "Ady",
+        "Código Postal": "66644",
+        "Dirección": "Hacienda de los García #100, Real Hacienda de Huinalá",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7343678,
+            "lng": -100.1577208
+        },
+        "Marca temporal": "12/10/2020 16:35:49",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Luis Efrén Cuenca Ochoa": {
+        "Apodo (nombre corto)": "El fundador :P",
+        "Código Postal": "04450",
+        "Dirección": "Ret. 703 #22 col. El centinela, Coyoacán. ",
+        "GPS": {
+            "City": [
+                "Ciudad de México",
+                "México D.F."
+            ],
+            "State": [
+                "Ciudad de México",
+                "CDMX"
+            ],
+            "lat": 19.3351473,
+            "lng": -99.1393889
+        },
+        "Marca temporal": "12/10/2020 21:43:17",
+        "Temporada en la que ingresaste a Tigres": "Steamworks",
+        "Updated GPS": true
+    },
+    "Luisa Areli Martínez Ulloa": {
+        "Apodo (nombre corto)": "Areli",
+        "Código Postal": "65750",
+        "Dirección": "Pino 206, Portal del Norte, General Zuazua, Nuevo León",
+        "GPS": {
+            "City": [
+                "General Zuazua",
+                "Gral Zuazua"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.8911893,
+            "lng": -100.1115181
+        },
+        "Marca temporal": "12/10/2020 16:56:22",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Marco Antonio Moreno Rodríguez": {
+        "Apodo (nombre corto)": "Marco",
+        "Código Postal": "66636",
+        "Dirección": "Jacarandas #116, Los Fresnos Norte, Apodaca",
+        "GPS": {
+            "City": [
+                "Ciudad Apodaca",
+                "Cd Apodaca"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7814786,
+            "lng": -100.2572084
+        },
+        "Marca temporal": "12/10/2020 20:32:25",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Omar Enrique Gonzalez Uresti": {
+        "Apodo (nombre corto)": "Omar",
+        "Código Postal": "67129",
+        "Dirección": "Brisa 721, Guadalupe, Nuevo León",
+        "GPS": {
+            "City": [
+                "Guadalupe",
+                "Guadalupe"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7054421,
+            "lng": -100.2361806
+        },
+        "Marca temporal": "12/10/2020 16:32:59",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    },
+    "Sebastián de Jesús Hernández Luna": {
+        "Apodo (nombre corto)": "Chuy",
+        "Código Postal": "66475",
+        "Dirección": "Chechen 355 jardines de casa blanca ",
+        "GPS": {
+            "City": [
+                "San Nicolás de los Garza",
+                "San Nicolás de los Garza"
+            ],
+            "State": [
+                "Nuevo León",
+                "N.L."
+            ],
+            "lat": 25.7345014,
+            "lng": -100.238984
+        },
+        "Marca temporal": "12/10/2020 16:41:13",
+        "Temporada en la que ingresaste a Tigres": "Infinite Recharge",
+        "Updated GPS": true
+    },
+    "Ulises Reyes García": {
+        "Apodo (nombre corto)": "Ulises",
+        "Código Postal": "88910",
+        "Dirección": "San Luis #508A Fraccionamiento San Diego",
+        "GPS": {
+            "City": [
+                "Ciudad Río Bravo",
+                "Cd Río Bravo"
+            ],
+            "State": [
+                "Tamaulipas",
+                "Tamps."
+            ],
+            "lat": 25.9820106,
+            "lng": -98.0888094
+        },
+        "Marca temporal": "12/10/2020 16:30:58",
+        "Temporada en la que ingresaste a Tigres": "Deep Space",
+        "Updated GPS": true
+    }
+}
